@@ -1,2 +1,2 @@
 # rebooker
-Web application for appointment management (like Doctolib)
+Web application for general appointment management
